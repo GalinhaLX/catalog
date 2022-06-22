@@ -1,0 +1,24 @@
+{
+	"catalog": [
+		{
+			"visibility": true,
+			"ref": "hero1",
+			"title": "titre"
+		},
+		{
+			"visibility": true,
+			"ref": "hero2",
+			"title": "titre du hero2"
+		},
+		{
+			"visibility": true,
+			"ref": "testi 1",
+			"title": "un superbe titre"
+		},
+		{
+			"visibility": true,
+			"ref": "foot1",
+			"title": "detail titre"
+		}
+	]
+}
